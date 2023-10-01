@@ -1,0 +1,51 @@
+@media screen and (max-width:600px) 
+{
+    body{background-color:rgb(192, 221, 221);}
+#nav1{display:inline;
+      font-size:30px;
+      padding-left: 2%; 
+      font-family: cursive;
+      font-style: italic;
+      color: rgb(33, 107, 11);
+     }
+#nav2{ display: inline;
+       float: right;
+       padding-right: 0px;
+       font-size: 0px;
+       background-color: aqua;
+       
+    }
+    #nav3{display:block;
+        background-image: url(sbj1.png);
+        background-size:400px;
+        background-repeat: no-repeat;
+        height: 300px;
+        width: 500px;
+
+    }
+    #nav4{display:block;
+        font-size: 20px;
+        padding-left: 150px;
+        padding-top: 0px;
+        color:rgb(20, 15, 70);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #nav5{padding-left: 20px;
+        padding-top: 7px;
+        display: block;
+        background-color: rgb(143, 166, 209);
+        border-top-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+    #nav6{color: rgb(26, 55, 136);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    #nav7{font-size: 15px;
+        padding: auto;
+        color: azure;
+        background-color: black;
+
+    }
+}
